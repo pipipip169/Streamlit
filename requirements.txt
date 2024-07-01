@@ -1,0 +1,5 @@
+hugchat==0.4.8
+numpy==1.23.5
+opencv_python==4.10.0.84
+Pillow==9.5.0
+streamlit==1.36.0
