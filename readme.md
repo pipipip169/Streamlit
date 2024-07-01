@@ -34,7 +34,7 @@ streamlit run levenshtein_distance.py
 ```php
 streamlit run object_detection.py
 ```
-*ChatBot:
+* ChatBot:
 ```php
 streamlit run chatbot.py
 ```
